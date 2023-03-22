@@ -11,7 +11,7 @@ if age >= 18:
         print("Let's play!")
 
     else:
-        print("Cya...")
+        print("Cya later...")
 
 else:
     print("You are not old enough to play...")
